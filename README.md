@@ -10,7 +10,7 @@ All is working well for now.
 ### include
 
 - monaco nerd for powerline
-[monaco nerd for powerline](! ./pics/monaco_pl_nerd.png)
+![monaco nerd for powerline](./pics/monaco_pl_nerd.png)
 ----- 
 
 ### usage
