@@ -19,5 +19,5 @@ Download the font file, mv it to `/usr/share/fonts/<custom-dir>` and `fc-cache` 
 
 ### screenshot
 
-![](./pics/vim_and_range.png)
+![](./pics/monaco_powerline.png)
 
