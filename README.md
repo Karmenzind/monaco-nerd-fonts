@@ -15,7 +15,12 @@ Working well for now.
 
 ### usage
 
-Download the font file, mv it to `/usr/share/fonts/<custom-dir>` and `fc-cache` to use it.
+Download the font file, mv it to `/usr/share/fonts/<custom-dir>`.
+If necessary, `cd` to your font dir and run
+```
+sudo mkfontscale && sudo mkfontdir && sudo fc-cache -fv 
+```
+to make new fonts available.
 
 ### screenshot
 
