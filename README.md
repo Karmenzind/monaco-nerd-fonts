@@ -11,7 +11,10 @@ Working well for now.
 
 ### include
 
-- monaco nerd for powerline
+- Monaco Nerd Font Complete.otf
+- Monaco Nerd Font Complete Windows Compatible.otf
+- Monaco Nerd Font Complete Mono.otf
+- Monaco Nerd Font Complete Mono Windows Compatible.otf
 
 ### usage
 
