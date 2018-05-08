@@ -24,5 +24,5 @@ to make new fonts available.
 
 ### screenshot
 
-![](./pics/vim_and_range.png)
+![](./pics/monaco_powerline.png)
 
