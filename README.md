@@ -19,13 +19,14 @@ Working well for now.
 ### usage
 
 Download the font file, mv it to `/usr/share/fonts/<custom-dir>`.
-If necessary, `cd` to your font dir and run
+If necessary, run
 ```
-sudo mkfontscale && sudo mkfontdir && sudo fc-cache -fv 
+sudo fc-cache -fv
 ```
+or follow [ArchWiki](https://wiki.archlinux.org/index.php/Fonts#Manual_installation) 
 to make new fonts available.
 
 ### screenshot
 
-![](./pics/monaco_powerline.png)
+![](./pics/monaco_nerd_complete.png)
 
