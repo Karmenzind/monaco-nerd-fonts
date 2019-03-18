@@ -1,15 +1,12 @@
 # monaco-nerd-fonts
 
-monaco font patched with extra nerd glyphs
+Terminal-friendly monaco font, with extra nerd glyphs, patched with [ryanoasis's nerd patcher](https://github.com/ryanoasis/nerd-fonts).
 
----
+### update
 
-### intro
+2019-3-18: Updating freetype2 to version `2.10.*` might break the font on Archlinux. To fix it, check https://github.com/Karmenzind/monaco-nerd-fonts/issues/2 (thanks to @guihkx). I'll update the font file at my leisure time.
 
-Terminal-friendly fonts created with [nerd patcher](https://github.com/ryanoasis/nerd-fonts).
-Working well for now.
-
-### include
+### files
 
 - Monaco Nerd Font Complete.otf
 - Monaco Nerd Font Complete Windows Compatible.otf
