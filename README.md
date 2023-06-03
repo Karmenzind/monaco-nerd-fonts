@@ -25,8 +25,6 @@ yay -S ttf-monaco-nerd-font-git
 
 - Monaco Nerd Font Complete.ttf
 - Monaco Nerd Font Complete Mono.ttf
-- Monaco Nerd Font Complete Windows Compatible.ttf
-- Monaco Nerd Font Complete Mono Windows Compatible.ttf
 
 > if you prefer the old otf version, check out the `old` branch
 
