@@ -23,8 +23,8 @@ yay -S ttf-monaco-nerd-font-git
 
 ### Files
 
-- Monaco Nerd Font Complete.ttf
-- Monaco Nerd Font Complete Mono.ttf
+- MonacoNerdFontMono-Regular.ttf
+- MonacoNerdFont-Regular.ttf
 
 > if you prefer the old otf version, check out the `old` branch
 
